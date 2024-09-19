@@ -9,6 +9,7 @@
   * [🔥 下界](shi-jie/xia-jie.md)
   * [🌫️ 末地](shi-jie/mo-di.md)
 * [🍠 服务器商店](fu-wu-qi-shang-dian.md)
+* [说明](shuo-ming.md)
 * [🍒 Q\&A](q-and-a/README.md)
   * [⌨️ 常用命令](q-and-a/chang-yong-ming-ling.md)
   * [🪺 常见问题](q-and-a/chang-jian-wen-ti.md)
