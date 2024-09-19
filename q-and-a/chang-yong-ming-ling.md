@@ -16,6 +16,18 @@ A：`/warp shop1` 和 `/warp shop2`
 
 
 
+Q：创建领地
+
+A：使用木斧选择领地坐标最小处和最大处分别左右键，然后输入`/region define <名字>`
+
+
+
+Q：设置领地权限
+
+A：/region flags <名字>
+
+
+
 Q：随身末影箱
 
 A：`/endersee`
