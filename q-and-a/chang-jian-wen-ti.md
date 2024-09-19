@@ -26,13 +26,16 @@ A：攒钱.jpg
 
 Q：发现了bug？
 
-A：点击反馈→[Issue提交](https://github.com/Axiumyuyu/SakuraValley-Issue/issues/new/choose)
+A：在我在线时间说或者点击反馈→[Issue提交](https://github.com/Axiumyuyu/SakuraValley-Issue/issues/new/choose)
 
 
 
 Q：我想玩xxx/我希望xxx应该是xxx这样子？
 
-A：点击
+A：在我在线时间说或者点击反馈→[Issue提交](https://github.com/Axiumyuyu/SakuraValley-Issue/issues/new/choose)
 
 
 
+Q：测试服开多久？
+
+A：u
