@@ -24,13 +24,15 @@ A：使用木斧选择领地坐标最小处和最大处分别左右键，然后�
 
 Q：续租领地
 
-A：在领地内输入`/res leasre  <名字>`
+A：在领地内输入`/res lease renew`
 
 
 
 Q：设置领地权限
 
-A：/region flags <名字>
+A：设置单项权限：在领地内输入`/res set <权限名字（选择带中文的）>  <true/false>`
+
+&#x20;      设置权限（GUI界面）：在领地内输入`/res set`
 
 
 

@@ -4,6 +4,8 @@ description: 邮件（礼包），侧边栏，玩家传送，挂机，动作等
 
 # 🎄 基础插件
 
+> 我懒得更新了.jpg
+
 * <mark style="color:green;">邮件相关</mark>
 
 服务器的补偿/奖励等主要通过邮件（礼包）发送
@@ -11,10 +13,6 @@ description: 邮件（礼包），侧边栏，玩家传送，挂机，动作等
 **/kit  <礼包名字>**   领取对应的礼包
 
 **/kitlist** 查看所有礼包列表
-
-目前仅有一个新手礼包，确保清空背包之后输入 **/kit 新手礼包** 可领取，若未清空背包则多余的物品会掉落
-
-该礼包仅允许领取一次
 
 ***
 
@@ -47,10 +45,6 @@ Tab列表中，不在本子服的玩家名显示为_<mark style="color:blue;">�
 * <mark style="color:green;">侧边栏相关：</mark>
 
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-
-侧边栏包含当前世界日历，季节，温度
-
-> 有时候会显示不准或者无法更新，请联系服主重载该模块（不重载其实也无伤大雅）
 
 可以使用 **/scoreborad**  关闭或开启侧边栏
 
