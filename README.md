@@ -4,6 +4,14 @@ description: Sakura Valley  |  1月
 
 # 🌸 服务器公告
 
+## 当前服务器暂时切换至二周目测试，该页面对应的一周目服务器暂不开放，请前往[二周目的公告](https://fantasy.sakuravalley.xyz/)
+
+***
+
+***
+
+***
+
 ```
 群樱之中，小憩片刻
 ```
