@@ -6,13 +6,13 @@
 
 Q：传送到另一个世界
 
-A：`/dim <world>`
+A：`/<world>`
 
 
 
 Q：去商店
 
-A：`/warp shop1` 和 `/warp shop2`
+A：`/` 1s`warp shop2`
 
 
 

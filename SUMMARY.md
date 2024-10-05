@@ -5,7 +5,6 @@
 * [🥥 世界](shi-jie/README.md)
   * [🏝️ 岛](shi-jie/dao.md)
   * [🍄 主世界](shi-jie/zhu-shi-jie.md)
-  * [🌊 数据包生存](shi-jie/shu-ju-bao-sheng-cun.md)
   * [🔥 下界](shi-jie/xia-jie.md)
   * [🌫️ 末地](shi-jie/mo-di.md)
 * [🍠 服务器商店](fu-wu-qi-shang-dian.md)

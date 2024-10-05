@@ -2,7 +2,7 @@
 
 世界名字：lands
 
-世界边界：300000
+世界边界：30000
 
 种子：`-2764457567879305849`
 
@@ -28,4 +28,8 @@
 <mark style="color:green;background-color:red;">**请勿在该世界开采矿产【即使是裸露的】，建造机器，发现即采取措施**</mark>
 
 <mark style="color:green;background-color:red;">**战利品箱子除外**</mark>
+
+<mark style="color:green;background-color:red;">**破坏景观的一切行为均不允许**</mark>
+
+<mark style="color:green;background-color:red;">**如需建造生电机器。请在Y=330以上的位置建设**</mark>
 {% endhint %}
