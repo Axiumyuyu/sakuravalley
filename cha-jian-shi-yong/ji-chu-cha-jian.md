@@ -32,7 +32,7 @@ description: 邮件（礼包），侧边栏，玩家传送，挂机，动作等
 
 * <mark style="color:green;">Tab列表相关：</mark>
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 Tab列表中，不在本子服的玩家名显示为_<mark style="color:blue;">蓝色下划线斜体字体</mark>_
 
@@ -44,7 +44,7 @@ Tab列表中，不在本子服的玩家名显示为_<mark style="color:blue;">�
 
 * <mark style="color:green;">侧边栏相关：</mark>
 
-<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 可以使用 **/scoreborad**  关闭或开启侧边栏
 

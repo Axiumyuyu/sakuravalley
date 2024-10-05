@@ -7,4 +7,4 @@
 * **低版本的客户端：**由于本服务器的一个特色为新版本特有的樱花，因此不推荐使用过低的版本加入服务器，过低的版本不管是对于游玩体验还是对于服务器负担都存在较大的影响
 * **高版本的客户端：**若客户端版本高于服务端版本，则新版本的内容在服务器中是无法实现的，请在设计、构思等事前行为中考虑到服务端的版本问题，高版本加入的影响相对较小（因为本来现在的周目离最新版本不远）
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>

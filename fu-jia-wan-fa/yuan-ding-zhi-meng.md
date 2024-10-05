@@ -8,6 +8,6 @@
 > * 可可豆
 > * 粉色小花
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 放置后默认朝向为正南（+Z），站在上面手持木棍并蹲下可旋转角度

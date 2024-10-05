@@ -2,7 +2,7 @@
 
 由于1.21的新机制，允许原版添加各种附魔，因此附魔是现在一个重要的核心玩法，下面为几个附魔数据包的帮助链接：
 
-## [Enchantments Encore](https://explorerseden.eu/wiki/enchantmentsencore/enchantmentlist)
+## [Enchantments Encore](https://explorerseden.eu/tables/enchantment\_list.html)
 
 ## [Neo Enchant](https://github.com/Hardel-DW/NeoEnchant/wiki/Custom-Enchantments)
 
