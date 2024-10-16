@@ -8,7 +8,7 @@
 
 ## [Enchant Plus](https://modrinth.com/datapack/enchant\_plus)
 
-## [Beyond Enchant](https://github.com/Hardel-DW/BeyondEnchant)
+## [Beyond Enchant](https://github.com/Hardel-DW/BeyondEnchant?tab=readme-ov-file#new-limits)
 
 ***
 

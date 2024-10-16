@@ -26,7 +26,7 @@
   * [🌱 园丁之梦](fu-jia-wan-fa/yuan-ding-zhi-meng.md)
   * [🍭 可悬挂的物品](fu-jia-wan-fa/ke-xuan-gua-de-wu-pin.md)
 * [🌺 插件使用](cha-jian-shi-yong/README.md)
-  * [植物生长](cha-jian-shi-yong/zhi-wu-sheng-zhang.md)
+  * [🌱 植物生长](cha-jian-shi-yong/zhi-wu-sheng-zhang.md)
   * [🎄 基础](cha-jian-shi-yong/ji-chu-cha-jian.md)
   * [🌵 领地](cha-jian-shi-yong/ling-di.md)
   * [🍓 权限组](cha-jian-shi-yong/quan-xian-zu.md)
