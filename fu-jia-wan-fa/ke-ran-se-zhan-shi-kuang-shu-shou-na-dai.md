@@ -1,14 +1,14 @@
 # 📗 可染色展示框，书，收纳袋
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>染色的物品展示框（物品模型不影响效果）</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>染色的物品展示框（物品模型不影响效果）</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>染色的荧光物品展示框</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>染色的荧光物品展示框</p></figcaption></figure>
 
-是否荧光在显示上无明显区别（左：普通  |  右：荧光）：![](<../.gitbook/assets/image (2).png>)
+是否荧光在显示上无明显区别（左：普通  |  右：荧光）：![](<../.gitbook/assets/image (2) (1).png>)
 
 ***
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>染色的书与笔</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>染色的书与笔</p></figcaption></figure>
 
 仅支持书与笔合成，署名后保留颜色，不可再次染色
 
