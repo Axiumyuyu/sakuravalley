@@ -86,7 +86,11 @@ description: 邮件（礼包），侧边栏，玩家传送，挂机，动作等
 
 `/workbench`   打开随身工作台
 
-`/anvil` 打开随身铁砧
+`/anvil`  打开随身铁砧
+
+`/endersee`  打开随身末影箱
+
+`/back`  回到上一次传送的地点
 
 {% hint style="info" %}
 以上所有权限需要在商店购买了对应的权限后才可使用
