@@ -6,6 +6,8 @@
 
 ## [Neo Enchant](https://github.com/Hardel-DW/NeoEnchant/wiki/Custom-Enchantments)
 
+* [附魔演示视频](https://voxel.hardel.io/en-us/datapacks/neoenchant)
+
 ## [Enchant Plus](https://modrinth.com/datapack/enchant\_plus)
 
 ## [Beyond Enchant](https://github.com/Hardel-DW/BeyondEnchant?tab=readme-ov-file#new-limits)
