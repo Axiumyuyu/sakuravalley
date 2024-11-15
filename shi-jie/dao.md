@@ -27,11 +27,7 @@
 </details>
 
 {% hint style="info" %}
-<mark style="color:green;background-color:red;">**请勿在该世界开采矿产【即使是裸露的】，建造机器，发现即采取措施**</mark>
-
-<mark style="color:green;background-color:red;">**战利品箱子除外**</mark>
-
-<mark style="color:green;background-color:red;">**破坏景观的一切行为均不允许**</mark>
+<mark style="color:green;background-color:red;">**该世界仅出生点岛可开发，除此之外的岛屿禁止任何形式的采矿，伐木，建造机器等破坏景观的行为**</mark>
 
 <mark style="color:green;background-color:red;">**如需建造生电机器。请在Y=330以上的位置建设**</mark>
 {% endhint %}
