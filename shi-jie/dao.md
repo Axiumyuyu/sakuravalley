@@ -6,7 +6,7 @@
 
 世界边界大小：30000
 
-种子：`-2764457567879305849`
+种子：可使用 `/seed` 查询
 
 {% hint style="info" %}
 此世界的地形生成已被严重修改，种子生成的原版地形与实际可能存在很大差异
@@ -16,7 +16,7 @@
 
 玩家可且仅可在此建立领地，该世界存在不同的岛屿，需要玩家自行探索发现，每个岛屿都有自己的特点
 
-可以使用/rtp，也许有幸能发现新的岛屿
+，使用 `/rtp` 也许有幸能发现新的岛屿
 
 <details>
 
@@ -27,7 +27,7 @@
 </details>
 
 {% hint style="info" %}
-<mark style="color:green;background-color:red;">**该世界仅出生点岛可开发，除此之外的岛屿禁止任何形式的采矿，伐木，建造机器等破坏景观的行为**</mark>
+<mark style="color:green;background-color:red;">**该世界仅出生点岛可开发，除此之外的岛屿需要开发请联系服主申请，**</mark>
 
 <mark style="color:green;background-color:red;">**如需建造生电机器。请在Y=330以上的位置建设**</mark>
 {% endhint %}
