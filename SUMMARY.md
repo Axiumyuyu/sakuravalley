@@ -12,6 +12,7 @@
 * [🍒 Q\&A](q-and-a/README.md)
   * [⌨️ 常用命令](q-and-a/chang-yong-ming-ling.md)
   * [🪺 常见问题](q-and-a/chang-jian-wen-ti.md)
+* [🚛 开发申请](kai-fa-shen-qing.md)
 * [🎮 附加玩法](fu-jia-wan-fa/README.md)
   * [✨ 附魔](fu-jia-wan-fa/fu-mo.md)
   * [📗 可染色展示框，书，收纳袋](fu-jia-wan-fa/ke-ran-se-zhan-shi-kuang-shu-shou-na-dai.md)
