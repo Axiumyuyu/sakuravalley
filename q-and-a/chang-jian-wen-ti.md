@@ -30,7 +30,7 @@ A：在我在线时间说或者点击反馈→[Issue提交](https://github.com/A
 
 
 
-Q：我想玩xxx/我希望xxx应该是xxx这样子？
+Q：我想玩xxx / 我希望xxx应该是xxx这样子？
 
 A：在我在线时间说或者点击反馈→[Issue提交](https://github.com/Axiumyuyu/SakuraValley-Issue/issues/new/choose)
 

@@ -7,5 +7,5 @@
 {% hint style="info" %}
 shop1多为玩家出售处以及特殊物品买卖
 
-shop2多为玩家购买处
+shop2多为建材购买处
 {% endhint %}
