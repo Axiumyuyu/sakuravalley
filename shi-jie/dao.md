@@ -27,7 +27,7 @@
 </details>
 
 {% hint style="info" %}
-<mark style="color:green;background-color:red;">**该世界仅出生点岛可开发，除此之外的岛屿需要开发请联系服主申请，**</mark>[<mark style="color:green;background-color:red;">**点击前往申请页面**</mark>](../kai-fa-shen-qing.md)<mark style="color:green;background-color:red;">**查看条件**</mark>
+<mark style="color:yellow;background-color:green;">**该**</mark><mark style="color:yellow;background-color:green;">**世界仅出生点岛可随意开发，除此之外的岛屿需要开发请联系服主申请，**</mark>[<mark style="color:yellow;background-color:green;">**点击前往申请页面**</mark>](../kai-fa-shen-qing.md)<mark style="color:yellow;background-color:green;">**查看条件**</mark>
 
-<mark style="color:green;background-color:red;">**如需在其他岛建造生电机器。请在Y=330以上的位置建设**</mark>
+<mark style="color:yellow;background-color:green;">**如需在其他岛建造生电机器。请在Y=330以上的位置建设**</mark>
 {% endhint %}

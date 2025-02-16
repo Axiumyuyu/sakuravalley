@@ -34,7 +34,7 @@ description: 邮件（礼包），侧边栏，玩家传送，挂机，动作等
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 纯净结晶为货币名称，单位为 **个**
 
