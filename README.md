@@ -46,7 +46,7 @@ Sakura Valley  |  樱之谷
 
 > **最近由于跨服设置，基岩版的解析出了点问题，导致基岩版暂时无法进服，我们正在寻找解决方案，如解决会第一时间通知**
 
-* <mark style="color:purple;background-color:red;">**服务器没有正版验证，但是有白名单，需要加入**</mark>[<mark style="color:purple;background-color:red;">**QQ群**</mark>](http://qm.qq.com/cgi-bin/qm/qr?\_wv=1027\&k=8\_\_Qdx-Jt5A8YcRJugFXvZxEj9A2uuwA\&authKey=w%2B9PIfOzpb%2FEevVez2%2F2GAd9srP1CBgQA1R4t%2FQFpF7Fes%2FqjQxOEP71cFQzexJA\&noverify=0\&group\_code=902914217)<mark style="color:purple;background-color:red;">**进行绑定**</mark>
+* <mark style="color:purple;background-color:red;">**服务器没有正版验证，但是有白名单，需要加入**</mark>[<mark style="color:purple;background-color:red;">**QQ群**</mark>](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027\&k=8__Qdx-Jt5A8YcRJugFXvZxEj9A2uuwA\&authKey=w%2B9PIfOzpb%2FEevVez2%2F2GAd9srP1CBgQA1R4t%2FQFpF7Fes%2FqjQxOEP71cFQzexJA\&noverify=0\&group_code=902914217)<mark style="color:purple;background-color:red;">**进行绑定**</mark>
 * <mark style="color:purple;background-color:red;">**服务器需要使用特定的资源包才可进入，当自动下载失败时请移步群文件手动下载并加载到客户端**</mark>
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>资源包</p></figcaption></figure>
@@ -110,3 +110,7 @@ Sakura Valley  |  樱之谷
 
 
 最后更新于 2024年9月16日21:19
+
+
+
+&#x20; [浙ICP备2024132190号](https://beian.miit.gov.cn/)
