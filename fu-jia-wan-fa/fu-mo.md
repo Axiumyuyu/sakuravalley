@@ -4,9 +4,9 @@
 
 ## [Enchantments Encore](https://explorerseden.eu/tables/enchantment_list.html)
 
-## [Neo Enchant](https://github.com/Hardel-DW/NeoEnchant/wiki/Custom-Enchantments)
+## [Neo Enchant](https://hardels-organization.gitbook.io/voxel)
 
-* [附魔演示视频](https://voxel.hardel.io/en-us/datapacks/neoenchant)
+* [部分附魔演示视频](https://voxel.hardel.io/en-us/datapacks/neoenchant)
 
 ## [Enchant Plus](https://modrinth.com/datapack/enchant_plus)
 
@@ -14,9 +14,7 @@
 
 ***
 
-此外，商店有售可破坏基岩的附魔书，将其附魔在任意镐子上即可用其破坏基岩
-
-原版的附魔等级也得到了大幅度提升，也请不要吝啬使用附魔台，它现在的作用远比你想象的强大
+此外,原版的附魔等级也得到了大幅度提升，也请不要吝啬使用附魔台，它现在的作用远比你想象的强大
 
 <details>
 
