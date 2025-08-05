@@ -68,7 +68,7 @@ description: 我懒得更新了.jpg
 
 站在领地范围内输&#x5165;**/res padd <玩家名**>可以为领地添加玩家，添加的玩家拥有如下权限：
 
-> <img src="../.gitbook/assets/屏幕截图 2023-10-06 195133.png" alt="" data-size="original">
+> <img src="../../.gitbook/assets/屏幕截图 2023-10-06 195133.png" alt="" data-size="original">
 
 如果还需要修改玩家权限，请输&#x5165;**/res pset <玩家名> <权限名> <值>**
 
