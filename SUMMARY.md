@@ -20,6 +20,7 @@
   * [🖥️ 家具](fu-jia-wan-fa/jia-ju.md)
 * [🌺 插件使用](cha-jian-shi-yong/README.md)
   * [🎄 基础](cha-jian-shi-yong/ji-chu.md)
+  * [🍀 AFK奖励概览](cha-jian-shi-yong/afk-jiang-li-gai-lan.md)
   * [🌵 领地](cha-jian-shi-yong/ling-di/README.md)
     * [🧢 领地各权限组信息](cha-jian-shi-yong/ling-di/ling-di-ge-quan-xian-zu-xin-xi.md)
   * [🌷 检视器](cha-jian-shi-yong/jian-shi-qi.md)
