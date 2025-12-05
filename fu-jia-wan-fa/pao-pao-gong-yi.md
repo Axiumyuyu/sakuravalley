@@ -1,9 +1,5 @@
 # 🫧 泡泡工艺
 
-{% hint style="info" %}
-由于版本升级后没有对应的数据包版本,且原作者不再维护，该数据包已从服务器内删除，所有物品仍然能够正常存在，但可能不再具有对应效果
-{% endhint %}
-
 在工作台上面丢一个玻璃瓶，工作台会转换为如下方块
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
