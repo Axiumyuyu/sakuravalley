@@ -11,7 +11,7 @@
 * [🍠 服务器商店](fu-wu-qi-shang-dian.md)
 * [🪺 常见问题](chang-jian-wen-ti.md)
 * [🎮 附加玩法](fu-jia-wan-fa/README.md)
-  * [属性](fu-jia-wan-fa/shu-xing.md)
+  * [🌓 属性](fu-jia-wan-fa/shu-xing.md)
   * [✨ 附魔](fu-jia-wan-fa/fu-mo/README.md)
     * [🕶️ 超限附魔](fu-jia-wan-fa/fu-mo/chao-xian-fu-mo.md)
   * [🍛 食物扩展](fu-jia-wan-fa/shi-wu-kuo-zhan.md)

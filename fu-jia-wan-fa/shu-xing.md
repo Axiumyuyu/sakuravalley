@@ -1,10 +1,14 @@
-# 属性
+# 🌓 属性
 
 源于游戏《Blue Archive》中的攻击属性与防御属性克制表
 
+{% hint style="info" %}
+<mark style="color:$warning;">**目前，这个表格是完全参照ba中的，但是未来也许会因为平衡性更改**</mark>
+{% endhint %}
 
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-生成的生物可以带有攻击和防御属性，会像ba一样受到加成和克制，可以通过配置文件调整
+生成的生物可以带有攻击和防御属性，会像ba一样受到加成和克制
 
 配置过的 `LivingEntity` 实体会带有属性，但：
 
@@ -14,6 +18,12 @@
 ### 玩家属性获取方式
 
 玩家和所有物品默认不带有攻击和防御属性（即具有normal攻击和防御属性，对任何攻击和任何护甲都不具有增减，相当于不想玩这个系统可以完全无视）
+
+可以使用 `/batype check <entity|item> <selector> <atk|def>` 来查看实体属性
+
+其中，entity为查看实体自身属性（包括了手中物品的覆盖效果），item只查看手中物品属性
+
+selector为原版[目标选择器](https://zh.minecraft.wiki/w/%E7%9B%AE%E6%A0%87%E9%80%89%E6%8B%A9%E5%99%A8)，只允许选择1个实体
 
 #### 攻击属性
 
@@ -43,7 +53,7 @@ _**注意：以上操作均不可逆，拥有属性的武器和防具无法去�
 * **如果是resist,则效果会反向生效（即正值减少攻击伤害）**
 * 一个实体可以同时拥有多种攻击属性特效加成和多种防御属性特效加成，但只有与自己攻击类型/防御类型相符的加成才会被计算
 
-默认配置为了避免膨胀，<mark style="color:red;">**WEAK**</mark>**为1.5倍伤害，**<mark style="color:orange;">**EFFECTIVE**</mark>**为1.25倍伤害，**<mark style="color:blue;">**RESIST**</mark>**为0.5倍伤害**
+默认配置为了避免膨胀，<mark style="color:red;">**WEAK**</mark>**为1.5倍伤害，**<mark style="color:$warning;">**EFFECTIVE**</mark>**为1.25倍伤害，**<mark style="color:blue;">**RESIST**</mark>**为0.5倍伤害**
 
 属性特效可以通过特殊物品以及某些状态效果获得
 
@@ -62,6 +72,8 @@ _**注意：以上操作均不可逆，拥有属性的武器和防具无法去�
 ### 护甲属性特效加成
 
 护甲的属性特效可以理解为“**对该属性的特质强化**”，例如可以让原本就抵抗的属性造成的伤害更少，但是同样的，会对原本就克制的属性更加克制，造成更多的伤害
+
+可以使用 `/bamodifier check <entity|item> <selector> <atk|def> <type>` 来查看实体属性
 
 嗯，如果还是不能理解，那么也可以不使用，但是我觉得实战里面应该能理解的，光看我这么说可能确实不太好理解
 
